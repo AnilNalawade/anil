@@ -1,3 +1,5 @@
+AWS_Access_key_ID="AKIAJVDB4B26OXQUC2IA"
+AWS_Secret_access_key="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"
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.PreparedStatement"%>
 <%@page import="java.sql.DriverManager"%>
